@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604754239 source:d:\rtym 2020\rtym1\main.cpp
+	<iostream>
+	<cmath>
+
